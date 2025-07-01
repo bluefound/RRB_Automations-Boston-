@@ -46,16 +46,14 @@ NEXT_PUBLIC_N8N_WEBHOOK_URL=your-n8n-production-webhook-url
 ```bash
 npm run dev
 ```
-Visit [http://localhost:3000](http://localhost:3000)
+Visit https://rrb-automations-boston-85lz.vercel.app
 
-### 5. Deploy
-- Push to GitHub.
-- Import the repo to [Vercel](https://vercel.com/), set the same environment variables, and deploy.
+
 
 ---
 
 ## Live Demo
-[Live on Vercel](https://your-vercel-app-url.vercel.app)
+[Live on Vercel] https://rrb-automations-boston-85lz.vercel.app 
 
 ---
 
